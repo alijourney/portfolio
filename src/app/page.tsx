@@ -7,27 +7,27 @@ export default async function Home() {
         <div className="container">
           <div className="intro">
             <img
-              src="/imgs/alsiam.png"
-              alt="Al Siam Profile"
+              src="imgs/anyonmous.png"
+              alt="Celso Profile"
               className="shadow-dark"
             />
-            <h1>Your Name</h1>
-            <p>Your expertise</p>
+            <h1>Celso Espino</h1>
+            <p>Software Engineer | Node.js | React | Svelte | Phoenix | AI</p>
             <div className="social-links">
-              <a href="https://twitter.com/" target="_blank">
-                <i className="fa fa-twitter" />
+              <a href="https://www.linkedin.com/in/celso-espino-128a98319" target="_blank">
+                <i className="fa fa-linkedin" />
               </a>
-              <a href="https://facebook.com/" target="_blank">
-                <i className="fa fa-facebook" />
-              </a>
-              <a href="https://github.com/" target="_blank">
+              <a href="https://github.com/alijourney" target="_blank">
                 <i className="fa fa-github" />
               </a>
-              <a href="https://instagram.com/" target="_blank">
-                <i className="fa fa-instagram" />
+              <a href="mailto:celso.espino.glo@gmail.com" target="_blank">
+                <i className="fa fa-envelope" />
               </a>
-              <a href="https://linkedin.com/in/" target="_blank">
-                <i className="fa fa-linkedin" />
+              <a href="https://wa.me/18494527587" target="_blank">
+                <i className="fa fa-whatsapp" />
+              </a>
+              <a href="https://t.me/greatjourney589" target="_blank">
+                <i className="fa fa-telegram" />
               </a>
             </div>
           </div>

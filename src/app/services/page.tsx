@@ -15,10 +15,10 @@ const Service: NextPage = () => {
       <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-paint-brush" /></div>
-          <h4>Professional Logo Design</h4>
-          <p>Elevate your brand with a unique and memorable logo. Our expert designers will create a distinctive
-            logo
-            that reflects your business identity and leaves a lasting impression on your audience.</p>
+          <h4>Web development</h4>
+          <p>Turn your digital ideas into reality with our web development solutions. We specialize in crafting
+            robust
+            and dynamic websites that are tailored to meet your specific business needs and objectives.</p>
         </div>
       </div>
       {/* Service Item 1 End */}
@@ -26,10 +26,8 @@ const Service: NextPage = () => {
       <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-laptop" /></div>
-          <h4>Custom Web Design</h4>
-          <p>Create a stunning online presence with our custom web design services. Wel will tailor a website that
-            not only
-            looks impressive but also delivers a seamless user experience, helping you achieve your online goals.
+          <h4>Mobile App Development</h4>
+          <p>
           </p>
         </div>
       </div>

@@ -1,11 +1,6 @@
-# urFolio v2
+# AJ portfolio v2
 
-[![GitHub license](https://img.shields.io/github/license/alsiam/urFolio)](https://github.com/alsiam/urFolio/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/alsiam/urFolio)](https://github.com/alsiam/urFolio/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/alsiam/urFolio)](https://github.com/alsiam/urFolio/issues)
-[![GitHub forks](https://img.shields.io/github/forks/alsiam/urFolio)](https://github.com/alsiam/urFolio/network)
-
-A free and open-source portfolio template for developers, now powered by Next.js. View the live demo: [urfolio.vercel.app](https://urfolio.vercel.app)
+A free and open-source portfolio template for developers, now powered by Next.js. View the live demo: [alijourney/portfolio](https://alijourney.github.io/portfolio)
 
 ## Table of Contents
 
@@ -28,14 +23,14 @@ A free and open-source portfolio template for developers, now powered by Next.js
 
 ## Demo
 
-Visit the live demo: [urfolio.vercel.app](https://urfolio.vercel.app)
+Visit the live demo: [alijourney/portfolio](https://alijourney.github.io/portfolio)
 
 ## Installation
 
 To get started, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/alsiam/urFolio.git`
-2. Navigate to the project folder: `cd urFolio`
+1. Clone the repository: `git clone https://github.com/alijourney/portfolio.git`
+2. Navigate to the project folder: `cd portfolio`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000)
@@ -63,7 +58,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Thanks to [Open Source Initiative](https://opensource.org/) for their guidelines on open-source licensing.
-- Special thanks to [Vercel](https://vercel.com/) for providing free hosting for the live demo.
 
 ---
 
